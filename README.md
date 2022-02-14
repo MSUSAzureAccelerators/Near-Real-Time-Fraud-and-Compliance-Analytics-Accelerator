@@ -1,4 +1,5 @@
 ![MSUS Solution Accelerator](./images/MSUS%20Solution%20Accelerator%20Banner%20Two_981.jpg)
+# Near Real Time Fraud and Compliance Analytics Solution Accelerator
 
 ## About this repository
 This accelerator was built to provide developers with all of the resources needed to build a solution to....
