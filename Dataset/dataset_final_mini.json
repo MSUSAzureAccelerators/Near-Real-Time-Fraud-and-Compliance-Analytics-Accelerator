@@ -1,0 +1,39 @@
+[
+  {
+    "TransactionID": "06702DCB-75C9-957B-9D4F-D0CC2B84AA22",
+    "AccountNumber": "TN7812217687577456537525",
+    "Date": "6/10/2021",
+    "Time": "16:22:53",
+    "ZipCustomer": 79508,
+    "VendorType": "Fuel",
+    "Device": "POS",
+    "Amount": 48,
+    "Method": "Debit",
+    "Fraud": 0
+  },
+  {
+    "TransactionID": "CE71B221-5228-F182-8A6A-01DD3A9EE7A22",
+    "AccountNumber": "RS27768594137661783567",
+    "Date": "7/10/2021",
+    "Time": "6:22:54",
+    "ZipCustomer": 71439,
+    "VendorType": "Hotel",
+    "Device": "POS",
+    "Amount": 3700,
+    "Method": "Debit",
+    "Fraud": 0
+  },
+  {
+    "TransactionID": "3DEAC220-22A1-19AE-578F-66A8813115538",
+    "AccountNumber": "CY19163891637052327254631260",
+    "Date": "8/10/2021",
+    "Time": "15:01:43",
+    "ZipCustomer": 66836,
+    "VendorType": "Fuel",
+    "Device": "POS",
+    "Amount": 43,
+    "Method": "Credit",
+    "Fraud": 0
+  }
+ 
+]
