@@ -1,6 +1,7 @@
 ![MSUS Solution Accelerator](./images/MSUS%20Solution%20Accelerator%20Banner%20Two_981.png)
 
-# Near Real Time Fraud and Compliance Analytics Solution Accelerator
+# Near Real Time Fraud and Compliance Analytics Accelerator
+The accelerator simplifies the fraud detection and reporting process, cutting down the time to action to prevent fraud as well as enable near real-time dashboards and analytics for streaming data.
 
 ## License
 
