@@ -3,7 +3,7 @@
 # Near Real-time Fraud and Compliance Analytics Accelerator
 The global fraud detection and prevention market was valued at USD 18.24 billion in 2020 and expected to reach USD 40.8 billion by 2026 and grove at a CAGR of 18.17% over the forecasted period (2021-2026).
 
-The key challendges faced by financial institutions with the evolving financial fraud and technology
+The key challendges faced by financial institutions with the evolving financial fraud and technology:
 * Extremely high false positives
 * Missing insights from unstructured data
 * Need for business user driven solutions
@@ -12,9 +12,11 @@ The key challendges faced by financial institutions with the evolving financial 
 * Missing omni channel coverage
 * Delayed alert mechanism
 
+
 > 63% of financial institutions believe that AI can prevent fraud
 
 > 80% agree that AI plays a critical role in reducing fraudulent
+
 
 Benefits of Machine Learning in Fraud Detection:
 * Faster and efficient detection
