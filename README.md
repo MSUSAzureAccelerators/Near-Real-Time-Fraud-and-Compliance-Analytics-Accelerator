@@ -15,7 +15,7 @@ The key challendges faced by financial institutions with the evolving financial 
 
 > 63% of financial institutions believe that AI can prevent fraud
 
-> 80% agree that AI plays a critical role in reducing fraudulent
+> 80% agree that AI plays a critical role in reducing fraudulent behavior
 
 
 Benefits of Machine Learning in Fraud Detection:
