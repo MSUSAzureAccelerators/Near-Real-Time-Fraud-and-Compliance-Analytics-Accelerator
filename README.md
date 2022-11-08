@@ -13,10 +13,7 @@ The key challenges faced by financial institutions with the evolving financial f
 * Delayed alert mechanism
 
 
-# 63% of financial institutions believe that AI can prevent fraud
-
-# 80% agree that AI plays a critical role in reducing fraudulent behavior
-
+> 63% of financial institutions believe that **AI can prevent fraud**
 
 Benefits of Machine Learning in Fraud Detection:
 * Faster and efficient detection
