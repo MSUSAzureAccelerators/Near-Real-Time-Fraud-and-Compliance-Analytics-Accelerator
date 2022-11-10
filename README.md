@@ -1,9 +1,9 @@
 ![MSUS Solution Accelerator](./images/MSUS%20Solution%20Accelerator%20Banner%20Two_981.png)
 
 # Near Real-time Fraud and Compliance Analytics Accelerator
-The global fraud detection and prevention market was valued at USD 18.24 billion in 2020 and expected to reach USD 40.8 billion by 2026 and grove at a CAGR of 18.17% over the forecasted period (2021-2026).
+The global fraud detection and prevention market was valued at USD 18.24 billion in 2020 and is expected to reach USD 40.8 billion by 2026 and grow at a CAGR of 18.17% over the forecasted period (2021-2026).
 
-The key challenges faced by financial institutions with the evolving financial fraud and technology:
+Fraud detection challenges for financial institutions:
 * Extremely high false positives
 * Missing insights from unstructured data
 * Need for business user driven solutions
@@ -15,7 +15,7 @@ The key challenges faced by financial institutions with the evolving financial f
 
 **63% of financial institutions believe that AI can prevent fraud**
 
-Benefits of Machine Learning in Fraud Detection:
+Benefits of ML and AI for fraud detection:
 * Faster and efficient detection
 * Increased accuracy
 * Better prediction
@@ -24,7 +24,6 @@ Benefits of Machine Learning in Fraud Detection:
 * Easily scalable
 
 ## License
-
 Copyright (c) Microsoft Corporation
 
 All rights reserved.
@@ -36,6 +35,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED AS IS, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
+
 
 ## Contributing
 
@@ -53,8 +53,7 @@ contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additio
 
 ## Trademarks
 
-This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft 
-trademarks or logos is subject to and must follow 
+This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft trademarks or logos is subject to and must follow 
 [Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
 Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
 Any use of third-party trademarks or logos are subject to those third-party's policies.
